@@ -1,7 +1,5 @@
 # *Runkeeper Tweet Report*
 
-Submitted by: **Kavya Pabbaraju**
-
 This web app: **Provides a detailed report to analyze and understand a week's worth of RunKeeper tweets, including summarizing tweet data, identifying popular activities, and offering a searchable interface for exploring tweets and activities.**
 
 ## Features
